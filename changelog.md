@@ -17,9 +17,9 @@
 ###### Old code (line 8 of the index.html file):  filename='css/XXXX.css') }}" />
 ###### New code (line 8 of the index.html file): filename='css/main.css') }}" />
 
-## Add "avis" directory
+## Add "Review" directory
 
 06/02/2023
 
-###### The "avis" directory is used to give opinion.
-###### Added "avis" directory with templates folder containing base.html, index.html, submit.html and app.py file.
+###### The "Review" directory is used to give opinion.
+###### Added "Review" directory with templates folder containing base.html, index.html, submit.html and app.py file.

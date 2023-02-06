@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block title %}Index{% endblock %}
+
+{% block main %}
+    <h1>User Opinion Form</h1>
+    <form action="/submit" method="post">
+      <label for="opinion">Enter your opinion:</label>
+      <textarea id="opinion" name="opinion"></textarea>
+      <input type="submit" value="Submit">
+    </form>
+{% endblock %}
